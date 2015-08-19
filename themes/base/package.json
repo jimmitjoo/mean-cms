@@ -1,0 +1,25 @@
+{
+  "name": "mean-base",
+  "version": "0.0.1",
+  "description": "Base theme for Mean CMS",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jimmmie Johansson <jimmitjoo@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-clean": "^0.3.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-minify-css": "^1.2.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-ruby-sass": "^1.1.0",
+    "gulp-sass": "^2.0.4",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-uglify": "^1.2.0"
+  }
+}

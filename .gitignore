@@ -1,0 +1,6 @@
+.idea
+bin
+data
+node_modules
+themes/base/bower_components
+themes/base/node_modules

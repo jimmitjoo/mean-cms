@@ -1,0 +1,22 @@
+{
+  "name": "mean-base",
+  "version": "0.0.1",
+  "authors": [
+    "jimmitjoo <jimmitjoo@gmail.com>"
+  ],
+  "description": "Base theme for Mean CMS",
+  "license": "MIT",
+  "homepage": "http://jimmitjoo.se/mean-base",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "~3.3.5",
+    "angular": "~1.4.4",
+    "angular-route": "~1.4.4"
+  }
+}
